@@ -4,8 +4,7 @@
 💻 I enjoy low-level coding, system programming, and ethical hacking  
 🛠️ Love to optimize, debug, and push systems to their limits  
 💞️ Open to collaborate on security tools, OS projects, and unique Java/C++ ideas  
-📫 Reach me through GitHub or collab requests  
-😄 Pronouns: She/Her  
+📫 Reach me through GitHub or collab requests    
 ⚡ Fun fact: I treat bugs as puzzles and can spend hours reverse-engineering just for fun!  
 
 <!---
